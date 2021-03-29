@@ -1,2 +1,2 @@
 # Style-trasnfer
-Using Style transfer pretrained newwork to generate multi style pictures
+Course Project. Using fast Style transfer (https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf) pretrained newwork to generate multi style pictures
